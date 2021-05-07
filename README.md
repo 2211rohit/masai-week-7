@@ -5,10 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Landing page of Zerodha website
 
-## Want to get my concepts clear on react
-
-![Image ](https://imgur.com/1nfgEim)
-
 ## Available Scripts
 
 In the project directory, you can run:
